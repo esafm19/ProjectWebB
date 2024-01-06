@@ -1,0 +1,1 @@
+ini isi dari file02.txt yang dicreate dari vs code
